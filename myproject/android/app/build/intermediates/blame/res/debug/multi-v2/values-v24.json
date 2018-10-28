@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jd/Documents/Udemy/project/myproject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/jd/Documents/udemy-kurs/myproject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/Users/jd/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/27c83ed19786943fa9b4a3baf3c8d3b1/res/values-v24/values-v24.xml",

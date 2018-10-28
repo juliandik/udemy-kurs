@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jd/Documents/Udemy/project/myproject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/jd/Documents/udemy-kurs/myproject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/jd/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/04eacffe43fd9e871a53b7602a6f3d21/res/values-sw600dp-v13/values-sw600dp-v13.xml",
