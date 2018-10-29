@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jd/Documents/Udemy/project/myproject/node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.cpp \
-  /Users/jd/Documents/Udemy/project/myproject/node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.h
+  /Users/jd/Documents/udemy-kurs/myproject/node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.cpp \
+  /Users/jd/Documents/udemy-kurs/myproject/node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.h

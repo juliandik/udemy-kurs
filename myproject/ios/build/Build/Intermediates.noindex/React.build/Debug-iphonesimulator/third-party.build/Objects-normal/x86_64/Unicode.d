@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jd/Documents/Udemy/project/myproject/node_modules/react-native/third-party/folly-2016.10.31.00/folly/Unicode.cpp \
-  /Users/jd/Documents/Udemy/project/myproject/node_modules/react-native/third-party/folly-2016.10.31.00/folly/Unicode.h
+  /Users/jd/Documents/udemy-kurs/myproject/node_modules/react-native/third-party/folly-2016.10.31.00/folly/Unicode.cpp \
+  /Users/jd/Documents/udemy-kurs/myproject/node_modules/react-native/third-party/folly-2016.10.31.00/folly/Unicode.h

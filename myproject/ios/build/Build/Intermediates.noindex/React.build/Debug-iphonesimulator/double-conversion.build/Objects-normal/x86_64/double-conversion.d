@@ -1,10 +1,10 @@
 dependencies: \
-  /Users/jd/Documents/Udemy/project/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/double-conversion.cc \
-  /Users/jd/Documents/Udemy/project/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/double-conversion.h \
-  /Users/jd/Documents/Udemy/project/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/utils.h \
-  /Users/jd/Documents/Udemy/project/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/bignum-dtoa.h \
-  /Users/jd/Documents/Udemy/project/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/fast-dtoa.h \
-  /Users/jd/Documents/Udemy/project/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/fixed-dtoa.h \
-  /Users/jd/Documents/Udemy/project/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/ieee.h \
-  /Users/jd/Documents/Udemy/project/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/diy-fp.h \
-  /Users/jd/Documents/Udemy/project/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/strtod.h
+  /Users/jd/Documents/udemy-kurs/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/double-conversion.cc \
+  /Users/jd/Documents/udemy-kurs/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/double-conversion.h \
+  /Users/jd/Documents/udemy-kurs/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/utils.h \
+  /Users/jd/Documents/udemy-kurs/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/bignum-dtoa.h \
+  /Users/jd/Documents/udemy-kurs/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/fast-dtoa.h \
+  /Users/jd/Documents/udemy-kurs/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/fixed-dtoa.h \
+  /Users/jd/Documents/udemy-kurs/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/ieee.h \
+  /Users/jd/Documents/udemy-kurs/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/diy-fp.h \
+  /Users/jd/Documents/udemy-kurs/myproject/node_modules/react-native/third-party/double-conversion-1.1.6/src/strtod.h
